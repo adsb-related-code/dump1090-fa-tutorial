@@ -1,6 +1,7 @@
 #!/bin/bash
 
 mkdir /var/run/dump1090
+chown -R www-data /var/run/dump1090
 
 while true
 do
