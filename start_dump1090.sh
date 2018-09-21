@@ -1,5 +1,7 @@
 #!/bin/bash
 
+mkdir /var/run/dump1090
+
 while true
 do
         sleep 30
